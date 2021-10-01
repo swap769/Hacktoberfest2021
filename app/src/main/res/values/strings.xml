@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Firebase Auth</string>
+    <string name="heading">Heading</string>
+    <string name="content">This is some test content</string>
     <string name="Let_s_get_started">Let\'s get started</string>
     <string name="Do_the_needful">Do the needful</string>
     <string name="login">Login</string>
