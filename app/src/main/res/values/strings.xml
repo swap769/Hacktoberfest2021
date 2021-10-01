@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Firebase Auth</string>
+    <string name="login">Login</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="hintPassword">Password</string>
+    <string name="username_or_email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="signup">SignUp</string>
+    <string name="create_a_new_account">Create a new Account</string>
+    <string name="don_t_have_account_signup">Don\'t have account? <b>SignUp</b></string>
+    <string name="don_t_have_account_login">Already have an account? <b>Login</b></string>
+    <string name="you_are_logged_in_as">You are Logged in as</string>
+    <string name="sampleEmail_gmail_com">SampleEmail@gmail.com</string>
+    <string name="logout">Logout</string>
+</resources>
