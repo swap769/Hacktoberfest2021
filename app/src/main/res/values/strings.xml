@@ -16,4 +16,5 @@
     <string name="you_are_logged_in_as">You are Logged in as</string>
     <string name="sampleEmail_gmail_com">SampleEmail@gmail.com</string>
     <string name="logout">Logout</string>
+    <string name="heading">Test Heading</string>
 </resources>
