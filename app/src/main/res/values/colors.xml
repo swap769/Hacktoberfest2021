@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple">#800080</color>
     <color name="cyan">#00FFFF</color>
+    <color name="Salmon">##FA8072</color>
+    
     
 </resources>
